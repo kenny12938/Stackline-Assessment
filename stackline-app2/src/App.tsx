@@ -11,8 +11,18 @@ import {
   updateDetails,
   updateTags,
   updateSales,
-  ItemData
+  Sale
 } from './redux/itemSlice';
+  
+interface ItemData {
+  "id": string,
+  "title": string,
+  "image": string,
+  "subtitle": string,
+  "brand": string,
+  "tags": string[],
+  "sales": Sale[]
+}
 
 const App = () => {
   const dispatch = useDispatch();
