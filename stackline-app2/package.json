@@ -2,7 +2,7 @@
   "name": "stackline-app2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "kenny12938.github.io/Stackline-Assessment/",
+  "homepage": ".",
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.5",
     "@testing-library/jest-dom": "^5.17.0",
