@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kenny12938.github.io/Stackline-Assessment/stackline-app2/static/css/main.45b62e46.css",
+    "main.js": "/kenny12938.github.io/Stackline-Assessment/stackline-app2/static/js/main.0f99e0a8.js",
+    "static/js/453.a8ec49bc.chunk.js": "/kenny12938.github.io/Stackline-Assessment/stackline-app2/static/js/453.a8ec49bc.chunk.js",
+    "static/media/stackline_logo.svg": "/kenny12938.github.io/Stackline-Assessment/stackline-app2/static/media/stackline_logo.5935081bd899ecfe02395699e768f84e.svg",
+    "index.html": "/kenny12938.github.io/Stackline-Assessment/stackline-app2/index.html",
+    "main.45b62e46.css.map": "/kenny12938.github.io/Stackline-Assessment/stackline-app2/static/css/main.45b62e46.css.map",
+    "main.0f99e0a8.js.map": "/kenny12938.github.io/Stackline-Assessment/stackline-app2/static/js/main.0f99e0a8.js.map",
+    "453.a8ec49bc.chunk.js.map": "/kenny12938.github.io/Stackline-Assessment/stackline-app2/static/js/453.a8ec49bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45b62e46.css",
+    "static/js/main.0f99e0a8.js"
+  ]
+}
